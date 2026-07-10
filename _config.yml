@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'uint8t驿站'
-subtitle: 'Ex.BA7OTA'
-description: '个人嵌入式开发者，同时也是业余无线电爱好者'
+title: uint8t's Blog
+subtitle:
+description: '嵌入式开发者，同时也是业余无线电爱好者'
 keywords:
-author: Wang Qiyu
+author: uint8t
 language: zh-CN
 timezone: 'Asia/Shanghai'
 

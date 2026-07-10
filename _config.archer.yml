@@ -2,7 +2,7 @@
 # avatar
 avatar: /avatar/avatar.jpg
 # author name
-author: Wang Qiyu
+author: uint8t
 # signature
 signature:
 # SNS (you can custom the order)
@@ -64,9 +64,9 @@ SEO_title:
 # keywords for site (good for SEO)
 SEO_keywords:
 # main title shown in header image
-main_title: uint8t驿站
+main_title: uint8t's Blog
 # subtitle
-subtitle: Ex. BA7OTA 
+subtitle:
 # site haeder image
 site_header_image: '/intro/ant-bg.jpg'
 # post haeder image
