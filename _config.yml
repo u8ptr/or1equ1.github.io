@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 url: http://uint8t.top
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
