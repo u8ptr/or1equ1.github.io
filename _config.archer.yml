@@ -25,7 +25,7 @@ social:
   bilibili: //space.bilibili.com/1942207426
   linkedin: 
   steam: 
-  others: //qrz.com/db/ba7ota
+  others: 
   rss: 
 # friends
 friends:
@@ -52,6 +52,9 @@ profile_icons:
   search: 'fas fa-search'
 # Additional profile links
 profile_links:
+  - name: Qrz.com
+    url: //qrz.com/db/ba7ota
+    icon: 'fas fa-globe'
   # - name: GOOGLE
   #   url: //www.google.com
   #   icon: 'fab fa-google'

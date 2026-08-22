@@ -12,7 +12,7 @@ language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
-url: http://uint8t.top
+url: https://uint8t.top
 permalink: :title/
 permalink_defaults:
 pretty_urls:
