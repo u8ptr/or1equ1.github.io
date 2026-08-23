@@ -30,8 +30,7 @@ social:
 # friends
 friends:
   Quarix: //blog.quarix.me
-  # friendA: //www.baidu.com
-  # friendB: //www.google.com
+  Carleight: //blog.carleight.com
 about:
   enable: false
   image: '/intro/bg.jpg'
